@@ -135,7 +135,7 @@
             {
                 "variableName": "pleasant_activities_details",
                 "isAbout": "pleasant_activities_details",
-                "isVis": true
+                "isVis": "pleasant_activities == 1"
             },
             {
                 "variableName": "conflict",
