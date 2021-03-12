@@ -4,7 +4,6 @@
     ],
     "@type": "reproschema:Field",
     "@id": "meds",
-    "headerImageSize": " =250x250)\r\n\r\n",
     "ui": {
         "inputType": "radio",
         "allow": [

@@ -4,7 +4,6 @@
     ],
     "@type": "reproschema:Field",
     "@id": "boredom",
-    "headerImageSize": " =250x250)\r\n\r\n",
     "ui": {
         "inputType": "slider"
     },
