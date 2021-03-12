@@ -1,0 +1,11 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "@id": "pleasant_activities_details",
+    "ui": {
+        "inputType": "text"
+    },
+    "question": "What pleasant activities did you do?"
+}
