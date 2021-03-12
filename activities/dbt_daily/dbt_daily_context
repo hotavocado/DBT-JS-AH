@@ -110,6 +110,10 @@
             "@id": "dbt_daily:conflict_details",
             "@type": "@id"
         },
+        "boredom": {
+            "@id": "dbt_daily:boredom",
+            "@type": "@id"
+        },
         "meds": {
             "@id": "dbt_daily:meds",
             "@type": "@id"

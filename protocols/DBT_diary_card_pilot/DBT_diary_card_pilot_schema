@@ -17,16 +17,10 @@
                 "variableName": "dbt_daily",
                 "isAbout": "dbt_daily",
                 "isVis": true
-            },
-            {
-                "variableName": "",
-                "isAbout": "",
-                "isVis": true
             }
         ],
         "order": [
-            "dbt_daily",
-            ""
+            "dbt_daily"
         ],
         "shuffle": false
     }

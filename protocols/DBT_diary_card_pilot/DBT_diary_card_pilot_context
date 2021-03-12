@@ -5,10 +5,6 @@
         "dbt_daily": {
             "@id": "activity_path:dbt_daily/dbt_daily_schema",
             "@type": "@id"
-        },
-        "": {
-            "@id": "activity_path:/_schema",
-            "@type": "@id"
         }
     }
 }

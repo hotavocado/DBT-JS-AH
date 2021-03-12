@@ -148,6 +148,11 @@
                 "isVis": "conflict.includes(1) || conflict.includes(2) || conflict.includes(3) || conflict.includes(4)"
             },
             {
+                "variableName": "boredom",
+                "isAbout": "boredom",
+                "isVis": true
+            },
+            {
                 "variableName": "meds",
                 "isAbout": "meds",
                 "isVis": true
@@ -216,6 +221,7 @@
             "pleasant_activities_details",
             "conflict",
             "conflict_details",
+            "boredom",
             "meds",
             "dbt_skills_instructions",
             "mindfulness_skills",
